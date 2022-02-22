@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5fb6f42786c9d30cc705151d9ff1ae13",
+    "revision": "52da098e2e5260c867502e1f657891c5",
     "url": "/Five-Nights-at-Freddys-Web/index.html"
   },
   {
-    "revision": "9454b380ae278174b046",
-    "url": "/Five-Nights-at-Freddys-Web/static/css/main.f00bcd27.chunk.css"
+    "revision": "4bb71708a1716c4f6d05",
+    "url": "/Five-Nights-at-Freddys-Web/static/css/main.071f97cd.chunk.css"
   },
   {
     "revision": "85f799dc161c6538fab3",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Five-Nights-at-Freddys-Web/static/js/2.db2ae89f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9454b380ae278174b046",
-    "url": "/Five-Nights-at-Freddys-Web/static/js/main.a9c2c3c5.chunk.js"
+    "revision": "4bb71708a1716c4f6d05",
+    "url": "/Five-Nights-at-Freddys-Web/static/js/main.94961dd7.chunk.js"
   },
   {
     "revision": "86d7a2b763ddb7ed593e",

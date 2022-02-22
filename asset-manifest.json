@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Five-Nights-at-Freddys-Web/static/css/main.f00bcd27.chunk.css",
-    "main.js": "/Five-Nights-at-Freddys-Web/static/js/main.a9c2c3c5.chunk.js",
-    "main.js.map": "/Five-Nights-at-Freddys-Web/static/js/main.a9c2c3c5.chunk.js.map",
+    "main.css": "/Five-Nights-at-Freddys-Web/static/css/main.071f97cd.chunk.css",
+    "main.js": "/Five-Nights-at-Freddys-Web/static/js/main.94961dd7.chunk.js",
+    "main.js.map": "/Five-Nights-at-Freddys-Web/static/js/main.94961dd7.chunk.js.map",
     "runtime-main.js": "/Five-Nights-at-Freddys-Web/static/js/runtime-main.1bd90e32.js",
     "runtime-main.js.map": "/Five-Nights-at-Freddys-Web/static/js/runtime-main.1bd90e32.js.map",
     "static/js/2.db2ae89f.chunk.js": "/Five-Nights-at-Freddys-Web/static/js/2.db2ae89f.chunk.js",
     "static/js/2.db2ae89f.chunk.js.map": "/Five-Nights-at-Freddys-Web/static/js/2.db2ae89f.chunk.js.map",
     "index.html": "/Five-Nights-at-Freddys-Web/index.html",
-    "precache-manifest.0f7490970cc684202afda08fc161fce1.js": "/Five-Nights-at-Freddys-Web/precache-manifest.0f7490970cc684202afda08fc161fce1.js",
+    "precache-manifest.c8ad1b11e7fc6b0b09ac9039913714c9.js": "/Five-Nights-at-Freddys-Web/precache-manifest.c8ad1b11e7fc6b0b09ac9039913714c9.js",
     "service-worker.js": "/Five-Nights-at-Freddys-Web/service-worker.js",
-    "static/css/main.f00bcd27.chunk.css.map": "/Five-Nights-at-Freddys-Web/static/css/main.f00bcd27.chunk.css.map",
+    "static/css/main.071f97cd.chunk.css.map": "/Five-Nights-at-Freddys-Web/static/css/main.071f97cd.chunk.css.map",
     "static/js/2.db2ae89f.chunk.js.LICENSE.txt": "/Five-Nights-at-Freddys-Web/static/js/2.db2ae89f.chunk.js.LICENSE.txt",
     "static/media/304.webp": "/Five-Nights-at-Freddys-Web/static/media/304.6261b129.webp",
     "static/media/Backstage-b.webp": "/Five-Nights-at-Freddys-Web/static/media/Backstage-b.f9279547.webp",
@@ -99,7 +99,7 @@
   "entrypoints": [
     "static/js/runtime-main.1bd90e32.js",
     "static/js/2.db2ae89f.chunk.js",
-    "static/css/main.f00bcd27.chunk.css",
-    "static/js/main.a9c2c3c5.chunk.js"
+    "static/css/main.071f97cd.chunk.css",
+    "static/js/main.94961dd7.chunk.js"
   ]
 }
