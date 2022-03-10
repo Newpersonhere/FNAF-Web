@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dae02efe63f14bb60959d7d34937a8b1",
+    "revision": "dd7e07f7ba31419ad0702bb2feec96a2",
     "url": "/FNAF-Web/index.html"
   },
   {
-    "revision": "85f9c36e8a8a38b4ae33",
-    "url": "/FNAF-Web/static/css/main.71ef3c56.chunk.css"
+    "revision": "b1ec76089edd15ccf59e",
+    "url": "/FNAF-Web/static/css/main.2c42a3f7.chunk.css"
   },
   {
-    "revision": "3807363817a64d37415c",
-    "url": "/FNAF-Web/static/js/2.c27f22ce.chunk.js"
+    "revision": "d51bcbe0e18b7a83b740",
+    "url": "/FNAF-Web/static/js/2.3d98890d.chunk.js"
   },
   {
     "revision": "2d0dc3ea56ea29aa89323d664321ba6d",
-    "url": "/FNAF-Web/static/js/2.c27f22ce.chunk.js.LICENSE.txt"
+    "url": "/FNAF-Web/static/js/2.3d98890d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "85f9c36e8a8a38b4ae33",
-    "url": "/FNAF-Web/static/js/main.46dc0119.chunk.js"
+    "revision": "b1ec76089edd15ccf59e",
+    "url": "/FNAF-Web/static/js/main.79f0f945.chunk.js"
   },
   {
     "revision": "8b13a07cc484f6d4c9fd",
@@ -158,6 +158,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9d962f5d25ed584bec66cd504ab22b0d",
     "url": "/FNAF-Web/static/media/FreddyLaugh2.9d962f5d.mp3"
+  },
+  {
+    "revision": "c03a22a1931eb8b0059ac168cbfd52ff",
+    "url": "/FNAF-Web/static/media/GoldenFreddy.c03a22a1.png"
+  },
+  {
+    "revision": "7420766a9b52cd06e4a579fcdb4b959e",
+    "url": "/FNAF-Web/static/media/GoldenFreddyPoster.7420766a.png"
   },
   {
     "revision": "f419bc7434400c0deeafb7f213647aee",

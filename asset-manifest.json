@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/FNAF-Web/static/css/main.71ef3c56.chunk.css",
-    "main.js": "/FNAF-Web/static/js/main.46dc0119.chunk.js",
-    "main.js.map": "/FNAF-Web/static/js/main.46dc0119.chunk.js.map",
+    "main.css": "/FNAF-Web/static/css/main.2c42a3f7.chunk.css",
+    "main.js": "/FNAF-Web/static/js/main.79f0f945.chunk.js",
+    "main.js.map": "/FNAF-Web/static/js/main.79f0f945.chunk.js.map",
     "runtime-main.js": "/FNAF-Web/static/js/runtime-main.9a0931a1.js",
     "runtime-main.js.map": "/FNAF-Web/static/js/runtime-main.9a0931a1.js.map",
-    "static/js/2.c27f22ce.chunk.js": "/FNAF-Web/static/js/2.c27f22ce.chunk.js",
-    "static/js/2.c27f22ce.chunk.js.map": "/FNAF-Web/static/js/2.c27f22ce.chunk.js.map",
+    "static/js/2.3d98890d.chunk.js": "/FNAF-Web/static/js/2.3d98890d.chunk.js",
+    "static/js/2.3d98890d.chunk.js.map": "/FNAF-Web/static/js/2.3d98890d.chunk.js.map",
     "index.html": "/FNAF-Web/index.html",
-    "precache-manifest.b8aee9508d92901384456251e752d859.js": "/FNAF-Web/precache-manifest.b8aee9508d92901384456251e752d859.js",
+    "precache-manifest.fb3fd0437575392d22a028815714d9b6.js": "/FNAF-Web/precache-manifest.fb3fd0437575392d22a028815714d9b6.js",
     "service-worker.js": "/FNAF-Web/service-worker.js",
-    "static/css/main.71ef3c56.chunk.css.map": "/FNAF-Web/static/css/main.71ef3c56.chunk.css.map",
-    "static/js/2.c27f22ce.chunk.js.LICENSE.txt": "/FNAF-Web/static/js/2.c27f22ce.chunk.js.LICENSE.txt",
+    "static/css/main.2c42a3f7.chunk.css.map": "/FNAF-Web/static/css/main.2c42a3f7.chunk.css.map",
+    "static/js/2.3d98890d.chunk.js.LICENSE.txt": "/FNAF-Web/static/js/2.3d98890d.chunk.js.LICENSE.txt",
     "static/media/304.webp": "/FNAF-Web/static/media/304.6261b129.webp",
     "static/media/Backstage-b.webp": "/FNAF-Web/static/media/Backstage-b.f9279547.webp",
     "static/media/Backstage.webp": "/FNAF-Web/static/media/Backstage.0cd64672.webp",
@@ -45,6 +45,8 @@
     "static/media/Freddy.webp": "/FNAF-Web/static/media/Freddy.b24921e2.webp",
     "static/media/FreddyLaugh1.mp3": "/FNAF-Web/static/media/FreddyLaugh1.74fb79b7.mp3",
     "static/media/FreddyLaugh2.mp3": "/FNAF-Web/static/media/FreddyLaugh2.9d962f5d.mp3",
+    "static/media/GoldenFreddy.png": "/FNAF-Web/static/media/GoldenFreddy.c03a22a1.png",
+    "static/media/GoldenFreddyPoster.png": "/FNAF-Web/static/media/GoldenFreddyPoster.7420766a.png",
     "static/media/LD_RL.webp": "/FNAF-Web/static/media/LD_RL.36c1416c.webp",
     "static/media/LD_RL_CHICA.webp": "/FNAF-Web/static/media/LD_RL_CHICA.b66ef877.webp",
     "static/media/LL.webp": "/FNAF-Web/static/media/LL.48c57171.webp",
@@ -98,8 +100,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9a0931a1.js",
-    "static/js/2.c27f22ce.chunk.js",
-    "static/css/main.71ef3c56.chunk.css",
-    "static/js/main.46dc0119.chunk.js"
+    "static/js/2.3d98890d.chunk.js",
+    "static/css/main.2c42a3f7.chunk.css",
+    "static/js/main.79f0f945.chunk.js"
   ]
 }
