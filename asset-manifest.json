@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/FNAF-Web/static/css/main.2c42a3f7.chunk.css",
-    "main.js": "/FNAF-Web/static/js/main.79f0f945.chunk.js",
-    "main.js.map": "/FNAF-Web/static/js/main.79f0f945.chunk.js.map",
+    "main.js": "/FNAF-Web/static/js/main.54ece21e.chunk.js",
+    "main.js.map": "/FNAF-Web/static/js/main.54ece21e.chunk.js.map",
     "runtime-main.js": "/FNAF-Web/static/js/runtime-main.9a0931a1.js",
     "runtime-main.js.map": "/FNAF-Web/static/js/runtime-main.9a0931a1.js.map",
     "static/js/2.3d98890d.chunk.js": "/FNAF-Web/static/js/2.3d98890d.chunk.js",
     "static/js/2.3d98890d.chunk.js.map": "/FNAF-Web/static/js/2.3d98890d.chunk.js.map",
     "index.html": "/FNAF-Web/index.html",
-    "precache-manifest.fb3fd0437575392d22a028815714d9b6.js": "/FNAF-Web/precache-manifest.fb3fd0437575392d22a028815714d9b6.js",
+    "precache-manifest.7797017db2cc27397652bed14e84b4c8.js": "/FNAF-Web/precache-manifest.7797017db2cc27397652bed14e84b4c8.js",
     "service-worker.js": "/FNAF-Web/service-worker.js",
     "static/css/main.2c42a3f7.chunk.css.map": "/FNAF-Web/static/css/main.2c42a3f7.chunk.css.map",
     "static/js/2.3d98890d.chunk.js.LICENSE.txt": "/FNAF-Web/static/js/2.3d98890d.chunk.js.LICENSE.txt",
@@ -102,6 +102,6 @@
     "static/js/runtime-main.9a0931a1.js",
     "static/js/2.3d98890d.chunk.js",
     "static/css/main.2c42a3f7.chunk.css",
-    "static/js/main.79f0f945.chunk.js"
+    "static/js/main.54ece21e.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd7e07f7ba31419ad0702bb2feec96a2",
+    "revision": "a25d1e633e7e06fede4e0513c5b06541",
     "url": "/FNAF-Web/index.html"
   },
   {
-    "revision": "b1ec76089edd15ccf59e",
+    "revision": "f7c7eede2d365d90396d",
     "url": "/FNAF-Web/static/css/main.2c42a3f7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FNAF-Web/static/js/2.3d98890d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b1ec76089edd15ccf59e",
-    "url": "/FNAF-Web/static/js/main.79f0f945.chunk.js"
+    "revision": "f7c7eede2d365d90396d",
+    "url": "/FNAF-Web/static/js/main.54ece21e.chunk.js"
   },
   {
     "revision": "8b13a07cc484f6d4c9fd",
