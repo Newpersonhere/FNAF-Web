@@ -153,7 +153,7 @@ function Animatronic({
     }
   };
   useEffect(() => {
-    if (blackout) isBlackout = true;
+    if (blackout) isBlackout = false;
   }, [blackout]);
 
   function willMove (character, iterator, animaTime) {
