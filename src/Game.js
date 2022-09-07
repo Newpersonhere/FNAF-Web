@@ -23,7 +23,7 @@ const Game = ({
   endGame,
   dispatch,
 }) => {
-  const [goldenFreddy, setGoldenFreddy] = useState(false);
+  const [goldenFreddy, setGoldenFreddy] = useState(true);
 
   useEffect(() => {
     Ambience.currentTime = 0;
@@ -38,7 +38,7 @@ const Game = ({
 
   useEffect(() => {
     if (energy <= 0) {
-      isBlackout = true;
+      isBlackout = false;
       Ambience.pause();
     }
   }, [energy]);
@@ -72,7 +72,7 @@ const Game = ({
       animatronicState: {
         door: null,
         camera: null,
-        jumpscare: true,
+        jumpscare: false,
       },
     });
 
