@@ -33,7 +33,7 @@ import RL_CHICA from "../media/Textures/Office/RL_CHICA.webp";
 import RL_LL_CHICA from "../media/Textures/Office/RL_LL_CHICA.webp";
 import RL_LL_BONNIE_CHICA from "../media/Textures/Office/RL_LL_BONNIE_CHICA.webp";
 
-let canJumpscare = true;
+let canJumpscare = false;
 
 const officeImages = {
   LD,
@@ -153,7 +153,7 @@ function Office({
   }, [blackout]);
 
   useEffect(() => {
-    canJumpscare = true;
+    canJumpscare = false;
     return () => {
       canJumpscare = false;
       musicBox.pause();
