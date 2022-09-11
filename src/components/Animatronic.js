@@ -43,8 +43,8 @@ function Animatronic({
 
     if(stages.Bonnie) willMove("Bonnie", BonnieIterator, BonnieTime);
     if(stages.Chica) willMove("Chica", ChicaIterator, ChicaTime);
-    if(stages.Foxy) willMove("Foxy", FoxyIterator, FoxyTime, true);
-    if(stages.Freddy && stages.Chica && stages.Bonnie)willMove("Freddy", FreddyIterator, FreddyTime, true);
+    if(stages.Foxy) willMove("Foxy", FoxyIterator, FoxyTime, false);
+    if(stages.Freddy && stages.Chica && stages.Bonnie)willMove("Freddy", FreddyIterator, FreddyTime, false);
 
     return () => {
       FreddyIterator = Functions.Freddy();
@@ -96,7 +96,7 @@ function Animatronic({
   }, [gameOver]);
 
   const changeAnimatronic = (func) => {
-    dispatch({ type: "CHANGE_ANIMATRONICS_MOVING", content: true });
+    dispatch({ type: "CHANGE_ANIMATRONICS_MOVING", content: false });
 
     func();
 
@@ -134,11 +134,11 @@ function Animatronic({
       } else if (character === "Foxy") {
         FoxyIterator = Functions.Foxy();
         Media.Sounds.FoxyPunch.play();
-        willMove("Foxy", FoxyIterator, FoxyTime, true);
+        willMove("Foxy", FoxyIterator, FoxyTime, false);
       } else if (character === "Freddy") {
         FreddyIterator = Functions.Freddy();
         FreddyIterator.next();
-        willMove("Freddy", FreddyIterator, FreddyTime, true);
+        willMove("Freddy", FreddyIterator, FreddyTime, false);
       }
     });
   };
@@ -153,7 +153,7 @@ function Animatronic({
     }
   };
   useEffect(() => {
-    if (blackout) isBlackout = true;
+    if (blackout) isBlackout = false;
   }, [blackout]);
 
   function willMove (character, iterator, animaTime) {
